@@ -35,7 +35,7 @@ include 'includes/header.php';?>
 ?>
    <button type="button" class="btn btn-dark">Click Here</button>
    <button type="button" class="btn btn-success">Click Here</button>
-
+    <a href="https://php-demo-siam.herokuapp.com/" target="_blank" class="btn btn-danger">Website</a>
    
   <?php require 'includes/footer.php';?>
     
